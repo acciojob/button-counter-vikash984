@@ -6,6 +6,7 @@ const App = () => {
   return (
     <div>
         {/* Do not remove the main div */}
+    <p>Button clicked 0 times</p>
     </div>
   )
 }
